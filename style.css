@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/background.png.jpeg);
+    background-image: url(https://res.cloudinary.com/dy721kdwi/image/upload/v1724402141/background.png_gqk7k2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -397,7 +397,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(https://res.cloudinary.com/dy721kdwi/image/upload/v1724402141/phone-background_iigbiz.jpg);
     }
     .header-text{
         margin-top: 100%;
