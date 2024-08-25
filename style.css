@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(https://SkyPawar.github.io/repository/images/background.png.jpeg);
+    background-image: url(images/background.png.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -309,7 +309,7 @@ tabcontents
     text-decoration: none;
 }
 .social-icons ul li a .fa-brands{
-    font-size: 4em;
+    font-size: 3em;
     color: #222;
 }
 .social-icons ul li::before{
@@ -317,7 +317,7 @@ tabcontents
     position: absolute;
     top: 0;
     left: 0;
-    font-size: 4em;
+    font-size: 3em;
     height: 0;
     overflow: hidden;
     transition: 0.5s ease-in-out;
@@ -397,7 +397,7 @@ nav .fas{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(https://SkyPawar.github.io/repository/images/phone-background.png);
+        background-image: url(images/phone-background.png);
     }
     .header-text{
         margin-top: 100%;
